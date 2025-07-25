@@ -1,0 +1,187 @@
+{
+  "prompts": [
+    {
+      "id": 1,
+      "title": "Email Subject Line Generator",
+      "content": "Write 5 compelling email subject lines for [PRODUCT/SERVICE]. The target audience is [TARGET AUDIENCE]. The goal is to [SPECIFIC GOAL like increase open rates, drive sales, etc.]. Make them attention-grabbing but not spammy. Include emojis where appropriate.",
+      "tags": ["email", "marketing", "copywriting"],
+      "category": "Marketing",
+      "dateCreated": "2024-01-15"
+    },
+    {
+      "id": 2,
+      "title": "Social Media Content Calendar",
+      "content": "Create a 30-day social media content calendar for [BUSINESS/BRAND]. Focus on [INDUSTRY/NICHE]. Include post types: educational, promotional, behind-the-scenes, user-generated content, and trending topics. Provide post ideas, optimal posting times, and relevant hashtags for each platform.",
+      "tags": ["social media", "content", "planning"],
+      "category": "Marketing",
+      "dateCreated": "2024-01-16"
+    },
+    {
+      "id": 3,
+      "title": "Code Documentation Generator",
+      "content": "Generate comprehensive documentation for this [PROGRAMMING LANGUAGE] code:\n\n[INSERT CODE]\n\nInclude: function descriptions, parameter explanations, return values, usage examples, and any important notes about implementation or edge cases.",
+      "tags": ["coding", "documentation", "development"],
+      "category": "Development",
+      "dateCreated": "2024-01-17"
+    },
+    {
+      "id": 4,
+      "title": "Blog Post Outline Creator",
+      "content": "Create a detailed blog post outline for the topic: '[BLOG TOPIC]'. Target audience: [AUDIENCE]. Word count goal: [WORD COUNT]. Include:\n- Compelling headline\n- Introduction hook\n- 5-7 main sections with subpoints\n- Conclusion with call-to-action\n- SEO keywords to target",
+      "tags": ["blogging", "content", "seo"],
+      "category": "Content Creation",
+      "dateCreated": "2024-01-18"
+    },
+    {
+      "id": 5,
+      "title": "Customer Persona Generator",
+      "content": "Create a detailed customer persona for [PRODUCT/SERVICE]. Include:\n- Demographics (age, location, income)\n- Psychographics (values, interests, lifestyle)\n- Pain points and challenges\n- Goals and motivations\n- Preferred communication channels\n- Buying behavior patterns\n- Potential objections",
+      "tags": ["marketing", "personas", "research"],
+      "category": "Marketing",
+      "dateCreated": "2024-01-19"
+    },
+    {
+      "id": 6,
+      "title": "Meeting Summary Template",
+      "content": "Summarize this meeting transcript into a professional format:\n\n[INSERT TRANSCRIPT]\n\nInclude:\n- Meeting date, attendees, and purpose\n- Key decisions made\n- Action items with owners and deadlines\n- Important discussion points\n- Next steps and follow-up requirements",
+      "tags": ["meetings", "productivity", "business"],
+      "category": "Business",
+      "dateCreated": "2024-01-20"
+    },
+    {
+      "id": 7,
+      "title": "Product Description Writer",
+      "content": "Write a compelling product description for [PRODUCT NAME]. Target audience: [AUDIENCE]. Key features: [LIST FEATURES]. Benefits: [LIST BENEFITS]. Tone: [PROFESSIONAL/CASUAL/LUXURY]. Include:\n- Attention-grabbing headline\n- Problem-solution approach\n- Feature-benefit pairs\n- Social proof elements\n- Clear call-to-action",
+      "tags": ["ecommerce", "copywriting", "products"],
+      "category": "E-commerce",
+      "dateCreated": "2024-01-21"
+    },
+    {
+      "id": 8,
+      "title": "Learning Path Designer",
+      "content": "Design a comprehensive learning path for [SKILL/TOPIC]. Learner level: [BEGINNER/INTERMEDIATE/ADVANCED]. Time available: [TIMEFRAME]. Include:\n- Prerequisites and starting knowledge\n- Sequential learning modules\n- Practical exercises and projects\n- Resources and tools needed\n- Milestones and progress markers\n- Assessment methods",
+      "tags": ["education", "learning", "curriculum"],
+      "category": "Education",
+      "dateCreated": "2024-01-22"
+    },
+    {
+      "id": 9,
+      "title": "Crisis Communication Response",
+      "content": "Draft a crisis communication response for [SITUATION]. Stakeholders: [LIST STAKEHOLDERS]. Key messages to convey:\n- Acknowledgment of the situation\n- Responsibility and accountability\n- Immediate actions being taken\n- Prevention measures for the future\n- Contact information for further inquiries\nTone: Professional, empathetic, transparent",
+      "tags": ["crisis", "communication", "pr"],
+      "category": "Public Relations",
+      "dateCreated": "2024-01-23"
+    },
+    {
+      "id": 10,
+      "title": "User Story Generator",
+      "content": "Generate user stories for [FEATURE/PRODUCT]. User types: [LIST USER TYPES]. Format each story as:\n\n'As a [USER TYPE], I want [GOAL] so that [BENEFIT]'\n\nInclude:\n- Acceptance criteria for each story\n- Priority level (High/Medium/Low)\n- Estimated effort points\n- Dependencies between stories",
+      "tags": ["agile", "development", "requirements"],
+      "category": "Development",
+      "dateCreated": "2024-01-24"
+    },
+    {
+      "id": 11,
+      "title": "Competitive Analysis Framework",
+      "content": "Conduct a competitive analysis for [YOUR COMPANY/PRODUCT] against [COMPETITORS]. Analyze:\n- Product features and pricing\n- Market positioning and messaging\n- Strengths and weaknesses\n- Customer reviews and feedback\n- Marketing strategies and channels\n- Opportunities and threats\nProvide actionable insights and recommendations.",
+      "tags": ["analysis", "competition", "strategy"],
+      "category": "Strategy",
+      "dateCreated": "2024-01-25"
+    },
+    {
+      "id": 12,
+      "title": "Interview Question Generator",
+      "content": "Generate interview questions for [JOB POSITION] at [COMPANY TYPE]. Experience level: [JUNIOR/MID/SENIOR]. Include:\n- Technical questions specific to the role\n- Behavioral questions using STAR method\n- Situational problem-solving scenarios\n- Cultural fit questions\n- Questions about career goals and motivation\nProvide sample ideal answers for key questions.",
+      "tags": ["hiring", "interviews", "hr"],
+      "category": "Human Resources",
+      "dateCreated": "2024-01-26"
+    },
+    {
+      "id": 13,
+      "title": "SEO Content Optimizer",
+      "content": "Optimize this content for SEO:\n\n[INSERT CONTENT]\n\nTarget keyword: [KEYWORD]\nTarget audience: [AUDIENCE]\n\nProvide:\n- Improved title with keyword\n- Meta description (150-160 characters)\n- Header structure (H1, H2, H3)\n- Keyword density recommendations\n- Internal linking suggestions\n- Featured snippet optimization tips",
+      "tags": ["seo", "content", "optimization"],
+      "category": "Digital Marketing",
+      "dateCreated": "2024-01-27"
+    },
+    {
+      "id": 14,
+      "title": "Presentation Slide Creator",
+      "content": "Create slide content for a presentation on '[TOPIC]'. Audience: [AUDIENCE]. Duration: [TIME]. Include:\n- Compelling title slide\n- Agenda/outline slide\n- 5-7 main content slides with key points\n- Visual suggestions for each slide\n- Conclusion slide with next steps\n- Q&A preparation notes\nKeep text concise and impactful.",
+      "tags": ["presentations", "public speaking", "business"],
+      "category": "Business",
+      "dateCreated": "2024-01-28"
+    },
+    {
+      "id": 15,
+      "title": "A/B Test Hypothesis Creator",
+      "content": "Create an A/B test hypothesis for [WEBSITE ELEMENT/CAMPAIGN]. Current performance: [METRICS]. Goal: [IMPROVEMENT GOAL]. \n\nFormat: 'If we [CHANGE], then [PREDICTED OUTCOME] because [REASONING]'\n\nInclude:\n- Test variations to try\n- Success metrics to measure\n- Statistical significance requirements\n- Test duration recommendations\n- Potential risks and mitigation",
+      "tags": ["testing", "optimization", "analytics"],
+      "category": "Analytics",
+      "dateCreated": "2024-01-29"
+    },
+    {
+      "id": 16,
+      "title": "Grant Proposal Writer",
+      "content": "Write a grant proposal for [PROJECT/ORGANIZATION]. Grant type: [FOUNDATION/GOVERNMENT/CORPORATE]. Amount requested: [AMOUNT]. Include:\n- Executive summary\n- Problem statement and need\n- Project description and methodology\n- Expected outcomes and impact\n- Budget breakdown\n- Timeline and milestones\n- Evaluation methods\n- Sustainability plan",
+      "tags": ["grants", "funding", "nonprofit"],
+      "category": "Nonprofit",
+      "dateCreated": "2024-01-30"
+    },
+    {
+      "id": 17,
+      "title": "API Documentation Generator",
+      "content": "Generate API documentation for this endpoint:\n\nEndpoint: [ENDPOINT URL]\nMethod: [GET/POST/PUT/DELETE]\nDescription: [BRIEF DESCRIPTION]\n\nInclude:\n- Endpoint description and purpose\n- Request parameters and types\n- Request body examples (JSON)\n- Response format and status codes\n- Error handling and codes\n- Authentication requirements\n- Rate limiting information\n- Code examples in multiple languages",
+      "tags": ["api", "documentation", "development"],
+      "category": "Development",
+      "dateCreated": "2024-01-31"
+    },
+    {
+      "id": 18,
+      "title": "Event Planning Checklist",
+      "content": "Create a comprehensive event planning checklist for [EVENT TYPE]. Expected attendees: [NUMBER]. Budget: [BUDGET RANGE]. Include:\n- Pre-event tasks (8-12 weeks before)\n- Mid-planning tasks (4-8 weeks before)\n- Final preparations (1-4 weeks before)\n- Day-of-event tasks\n- Post-event follow-up\n- Budget tracking spreadsheet format\n- Vendor contact template",
+      "tags": ["events", "planning", "organization"],
+      "category": "Event Planning",
+      "dateCreated": "2024-02-01"
+    },
+    {
+      "id": 19,
+      "title": "Customer Feedback Survey",
+      "content": "Design a customer feedback survey for [PRODUCT/SERVICE]. Survey goals: [SPECIFIC GOALS]. Target response rate: [PERCENTAGE]. Include:\n- Introduction explaining survey purpose\n- 8-12 strategic questions (mix of multiple choice and open-ended)\n- Net Promoter Score (NPS) question\n- Customer satisfaction ratings\n- Demographic questions (optional)\n- Thank you message with incentive\n- Survey logic and skip patterns",
+      "tags": ["surveys", "feedback", "customers"],
+      "category": "Customer Experience",
+      "dateCreated": "2024-02-02"
+    },
+    {
+      "id": 20,
+      "title": "Risk Assessment Matrix",
+      "content": "Create a risk assessment for [PROJECT/BUSINESS INITIATIVE]. Scope: [DEFINE SCOPE]. Include:\n- Risk identification (minimum 10 risks)\n- Risk categories (operational, financial, technical, legal)\n- Probability assessment (Low/Medium/High)\n- Impact assessment (Low/Medium/High)\n- Risk score calculation\n- Mitigation strategies for high-priority risks\n- Contingency plans\n- Risk owner assignments\n- Review schedule",
+      "tags": ["risk", "assessment", "management"],
+      "category": "Project Management",
+      "dateCreated": "2024-02-03"
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "totalPrompts": 20,
+    "lastUpdated": "2024-02-03",
+    "categories": [
+      "Marketing",
+      "Development", 
+      "Content Creation",
+      "Business",
+      "E-commerce",
+      "Education",
+      "Public Relations",
+      "Strategy",
+      "Human Resources",
+      "Digital Marketing",
+      "Analytics",
+      "Nonprofit",
+      "Event Planning",
+      "Customer Experience",
+      "Project Management"
+    ],
+    "usage": "Import these prompts into Prompt Pocket by going to Settings > Import Data and selecting this JSON file."
+  }
+}
